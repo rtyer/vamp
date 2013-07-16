@@ -7,6 +7,6 @@ FIXME
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Ryan Tyer
 
 Distributed under The MIT License.
